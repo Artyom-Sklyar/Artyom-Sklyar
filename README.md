@@ -30,10 +30,6 @@ _🚀 Python-разработчик | Backend_
 
 ## Учебные проекты
 
-| Проект | Описание | Технологии | Ссылка |
-|--------|----------|------------|--------|
-| **Блогикум** | Сайт для блогов | Django, SQLite, HTML/CSS| [![GitHub](https://img.shields.io/badge/Перейти-181717?style=flat-square&logo=github)](https://github.com/Artyom-Sklyar/django-sprint4) |
-| **Бот-домашка** | ТГ-бот для отслеживания статуса ДЗ в Яндекс Практикуме | TeleBot | [![GitHub](https://img.shields.io/badge/Перейти-181717?style=flat-square&logo=github)](https://github.com/Artyom-Sklyar/homework-bot) |
-| **Блогикум** | Змейка | Pygame | [![GitHub](https://img.shields.io/badge/Перейти-181717?style=flat-square&logo=github)](https://github.com/Artyom-Sklyar/the_snake) |
+... не забыть добавить
 
 
